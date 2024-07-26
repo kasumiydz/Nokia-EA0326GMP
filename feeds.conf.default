@@ -6,4 +6,4 @@ src-git telephony https://github.com/openwrt/telephony.git;openwrt-23.05
 src-git small https://github.com/kenzok8/small
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git jerryk https://github.com/jerrykuku/openwrt-package
-src-git netspeedtest  https://github.com/sirpdboy/netspeedtest
+
